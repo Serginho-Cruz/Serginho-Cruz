@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Serginho-Cruz
-- 👀 I’m interested in Game development with C#/Unity
-- 🌱 I’m currently learning Java and Flutter
+- 👀 I’m interested in Mobile development, especially with Flutter and Kotlin
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Big Companies
 
 <!---
